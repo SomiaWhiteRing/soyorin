@@ -1,4 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { inject } from "@vercel/analytics";
+inject();
+</script>
 
 <template>
   <div class="flex flex-col items-center justify-center">
