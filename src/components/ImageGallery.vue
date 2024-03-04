@@ -3,7 +3,7 @@
     class="w-full grow overflow-hidden bg-orange-100 md:flex md:justify-center"
   >
     <div class="m-auto grid gap-4 px-4 py-6">
-      <div class="flex flex-col gap-4 md:flex-row md:items-center">
+      <div class="flex flex-col-reverse gap-4 md:flex-row md:items-center">
         <div class="order-2 md:order-1">
           <img
             src="https://p.sda1.dev/16/6f16e2779878073ad543e8734e6ec6b6/04f0cf62fb5a2132dae85a5fe170eb7f95991995.jpg"
