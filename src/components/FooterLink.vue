@@ -35,7 +35,7 @@ const links: Link[] = [
   },
   {
     name: "oblivionis.com",
-    url: "https://www.bing.com",
+    url: "https://www.oblivionis.com",
   },
   {
     name: "看mygo看的",

@@ -22,7 +22,7 @@
         </div>
       </div>
       <span class="text-center text-gray-500">
-        距bangdream国服实装mygo还有：
+        距BangDream国服实装MyGO!!!!!还有：
         <span class="text-2xl font-bold">
           {{ time.days }} 天 {{ time.hours }} 时 {{ time.minutes }} 分
           {{ time.seconds }} 秒 ！
