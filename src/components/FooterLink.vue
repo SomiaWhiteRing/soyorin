@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center gap-4">
+  <div class="flex flex-wrap gap-4">
     <span class="text-sm text-gray-500">友链？：</span>
     <a
       v-for="link in links"
