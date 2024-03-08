@@ -38,9 +38,13 @@ const links: Link[] = [
     url: "https://www.oblivionis.com",
   },
   {
+    name: "haruhikage.com",
+    url: "https://haruhikage.com",
+  },
+  {
     name: "看mygo看的",
     url: "https://mygo.shatranj.space/",
-  },
+  }
 ];
 </script>
 
